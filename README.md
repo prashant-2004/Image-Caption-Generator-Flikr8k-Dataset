@@ -4,7 +4,14 @@ Model for generating the Caption for the Image based on the flikr8k dataset for 
 This model is a deep learning model which uses the tensorflow and keras libraries which are used for Neural Network.
 
 It trains on the basis of the name of image and its corresponding nearly 5 captions related on that image. 
-The dataset for this is Flikr8k which is available on - https://www.kaggle.com/datasets/adityajn105/flickr8k?resource=download
+
+
+The dataset for this is Flikr8k(of 1.1GB) which is available on - https://www.kaggle.com/datasets/adityajn105/flickr8k?resource=download 
+
+
+put this DOWNLOADED DATASET, on this Repository Main-Folder by creating " Dataset/ " folder.IT IS MUST TO DOWNLOAD, to run model.
+
+
 
 To run the our model successfully..,we need to follow some steps explained below - 
 
